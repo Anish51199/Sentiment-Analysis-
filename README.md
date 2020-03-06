@@ -1,2 +1,2 @@
 # Sentiment-Analysis-
-Sentiment Analysis of a resturant whether it is positive or negative using keras.
+Sentiment Analysis of a restaurant whether it is positive or negative using keras.
